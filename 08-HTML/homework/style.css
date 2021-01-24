@@ -1,0 +1,63 @@
+img{
+    width: 400px;
+}
+.BK{
+    height: 300px;
+    width: 300px;
+}
+#thirdDiv {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+body {
+   background-color: darksalmon; 
+   background-image: url(https://media1.tenor.com/images/b4981a27d3c173214e20ca78bba2b86c/tenor.gif?itemid=11644776);
+   background-size: 75px;
+}
+.divClass{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+}
+.contenedor{
+    display: flex;
+    flex-direction:row;
+    justify-content: space-around;
+    align-items: center;
+}
+.hijo{
+    font-size: 18px;
+    margin: 50px;
+    background-color: peru;
+    border: 5px solid saddlebrown ;
+    padding: 1%;
+}
+.hije{
+    color:black;
+    text-align: center;
+    background-color: peru;
+    border: 5px solid saddlebrown;
+    font-size: 18px;
+    padding: 1%;
+    margin-top: 50px;
+    margin-bottom: 0%;
+}
+.hiji {
+    height: 600px;
+    width: 500px;
+    background-color: peru;
+    padding: 25px;
+    border: 10px solid saddlebrown;
+}
+.Marky{
+    color:black;
+    text-align: center;
+    background-color: peru;
+    border: 5px solid saddlebrown;
+    padding: 1%;
+}
+p {
+    font-size: 30px;
+}
